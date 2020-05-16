@@ -1,0 +1,1 @@
+alter table test add (idd varchar(2000));
